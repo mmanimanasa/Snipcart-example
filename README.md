@@ -1,4 +1,6 @@
-# Snipcart-example (https://mmanimanasa.github.io/Snipcart-example/#/)
+## Snipcart-example 
+
+## to see the working: (https://mmanimanasa.github.io/Snipcart-example/#/)
 
 Full fledged functionality of Shoping Cart has been implemented using SnipCart Technology. Various functions to be 
 
